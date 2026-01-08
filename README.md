@@ -6,7 +6,7 @@ passionate about learning, improving software quality, and growing through real-
 </p>
 
 <br><br>
-<img src="https://wizifytechnologies.com/assets/imgs/my/web-development.gif" alt="Coding" align="right" width="600">
+<img src="https://wizifytechnologies.com/assets/imgs/my/web-development.gif" alt="Coding" align="right" width="500">
 <p align="left">
     
 - 👩‍💻 Working as a Trainee QA Systems Engineer at **3CS**
