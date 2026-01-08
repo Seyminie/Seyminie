@@ -3,9 +3,7 @@
 🎓 Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)<br>
 🌱 Passionate about learning, building, and improving software through continuous growth
 
----------------------------------------------------------------------------------------------
-
-## 💼 Currently Working As
+### 💼 Currently Working As
 Trainee QA Systems Engineer at 3CS
 - Working with AI tools to improve testing efficiency
 - Learning real-world software quality and system workflows
