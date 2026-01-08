@@ -1,38 +1,40 @@
-## 👋 Hi I'm Yamani Jayasinghe
+<h1 align="center">Hi there 👋, I'm Yamani Jayasinghe</h1>
 
-🎓 Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)<br>
-🌱 Passionate about learning, building, and improving software through continuous growth
-
-### 💼 Currently Working As
-Trainee QA Systems Engineer at 3CS
-- Working with AI tools to improve testing efficiency
-- Learning real-world software quality and system workflows
-
-### 🛠️ Technical Skills
-Languages & Frameworks
-- Python | Java
-- Flask | React
-- HTML | CSS | JavaScript
-
-QA & Productivity
-- AI-powered tools for testing, analysis, and productivity
-- Quality assurance and system validation practices
-
-### 📫 How to Reach Me
 <p align="center">
-  <a href="mailto:yamanijayasinghe24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://wa.me/94767420260">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/yamani-jayasinghe-530b18255">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+An enthusiastic Software Engineering undergraduate at <b>IIT</b> (affiliated with the <b>University of Westminster</b>), 
+passionate about learning, improving software quality, and growing through real-world industry experience.
 </p>
----------------------------------------------------------------------------------------------
+
+<br><br>
+- 👩‍💻 Work as a Trainee QA Systems Engineer at **3CS**
+- 🤖 Use **AI-assisted tools** to improve testing efficiency
+- 🏗️ Learn real-world software quality and system workflows
+- 🛠️ Technologies & Tools: Python, Java, JavaScript, Flask, React and etc. 
+
+### 💡 Interests
+- Software Quality & Reliability  
+- AI-assisted development and testing  
+- Building maintainable and scalable systems  
+
+---
+
+### 💬 Ask Me About
+- Software Engineering fundamentals  
+- QA practices and testing mindset  
+- University projects and learning experiences  
+
+---
+### 📫 How to Reach Me
+📧 Contact me via yamanirochana24@gmail.com<br>
+
+<a href="https://www.linkedin.com/in/yamani-jayasinghe-530b18255" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/94767420260">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a><br><br>
+
 
 ⭐ Always learning. Always improving.
 
