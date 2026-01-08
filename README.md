@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Yamani Jayasinghe
 
-🎓 Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)
+🎓 Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)<br>
 🌱 Passionate about learning, building, and improving software through continuous growth
 
 ---------------------------------------------------------------------------------------------
