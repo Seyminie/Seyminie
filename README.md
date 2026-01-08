@@ -6,25 +6,30 @@ passionate about learning, improving software quality, and growing through real-
 </p>
 
 <br><br>
-- 👩‍💻 Work as a Trainee QA Systems Engineer at **3CS**
-- 🤖 Use **AI-assisted tools** to improve testing efficiency
-- 🏗️ Learn real-world software quality and system workflows
-- 🛠️ Technologies & Tools: Python, Java, JavaScript, Flask, React and etc. 
+<img src="https://wizifytechnologies.com/assets/imgs/my/web-development.gif" alt="Coding" align="right" width="600">
+<p align="left">
+    
+- 👩‍💻 Working as a Trainee QA Systems Engineer at **3CS**
 
-### 💡 Interests
+- 🛠️ Technologies & Tools: Python, Java, JavaScript, Flask, React and etc.
+
+- 🌱 I’m currently learning Selenium.
+<br><br>
+
+#### 💡 Interests
 - Software Quality & Reliability  
 - AI-assisted development and testing  
 - Building maintainable and scalable systems  
 
 ---
 
-### 💬 Ask Me About
+#### 💬 Ask Me About
 - Software Engineering fundamentals  
 - QA practices and testing mindset  
 - University projects and learning experiences  
 
 ---
-### 📫 How to Reach Me
+#### 📫 Reach Me : 
 📧 Contact me via yamanirochana24@gmail.com<br>
 
 <a href="https://www.linkedin.com/in/yamani-jayasinghe-530b18255" target="_blank">
@@ -34,7 +39,7 @@ passionate about learning, improving software quality, and growing through real-
   <a href="https://wa.me/94767420260">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a><br><br>
-
+</p>
 
 ⭐ Always learning. Always improving.
 
