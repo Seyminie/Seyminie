@@ -26,8 +26,8 @@ QA & Productivity
 
 ## 📫 How to Reach Me
 
-📧 Email: yamanirochana24@gmail.com
-📱 WhatsApp / Phone: +94 76 742 0260
+📧 Email: yamanirochana24@gmail.com<br>
+📱 WhatsApp / Phone: +94 76 742 0260<br>
 🔗 LinkedIn: www.linkedin.com/in/yamani-jayasinghe-530b18255
 
 ---------------------------------------------------------------------------------------------
