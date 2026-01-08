@@ -1,16 +1,36 @@
-## Hi there 👋
+##👋 Hi I'm Yamani Jayasinghe
 
-<!--
-**Seyminie/Seyminie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)
+🌱 Passionate about learning, building, and improving software through continuous growth
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Currently Working As
+Trainee QA Systems Engineer at 3CS
+- Working with AI tools to improve testing efficiency
+- Learning real-world software quality and system workflows
+
+---------------------------------------------------------------------------------------------
+
+## 🛠️ Technical Skills
+Languages & Frameworks
+- Python | Java
+- Flask | React
+- HTML | CSS | JavaScript
+
+QA & Productivity
+- AI-powered tools for testing, analysis, and productivity
+- Quality assurance and system validation practices
+
+---------------------------------------------------------------------------------------------
+
+## 📫 How to Reach Me
+
+📧 Email: yamanirochana24@gmail.com
+📱 WhatsApp / Phone: +94 76 742 0260
+🔗 LinkedIn: www.linkedin.com/in/yamani-jayasinghe-530b18255
+
+---------------------------------------------------------------------------------------------
+
+⭐ Always learning. Always improving.
+
