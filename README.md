@@ -19,11 +19,19 @@ QA & Productivity
 - Quality assurance and system validation practices
 
 ### 📫 How to Reach Me
-
-📧 Email: yamanirochana24@gmail.com<br>
-📱 WhatsApp / Phone: +94 76 742 0260<br>
-🔗 LinkedIn: www.linkedin.com/in/yamani-jayasinghe-530b18255
-
+<p align="center">
+  <a href="mailto:yamanijayasinghe24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/94767420260">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yamani-jayasinghe-530b18255">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---------------------------------------------------------------------------------------------
 
 ⭐ Always learning. Always improving.
