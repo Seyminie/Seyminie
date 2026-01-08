@@ -8,9 +8,7 @@ Trainee QA Systems Engineer at 3CS
 - Working with AI tools to improve testing efficiency
 - Learning real-world software quality and system workflows
 
----------------------------------------------------------------------------------------------
-
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 Languages & Frameworks
 - Python | Java
 - Flask | React
@@ -20,9 +18,7 @@ QA & Productivity
 - AI-powered tools for testing, analysis, and productivity
 - Quality assurance and system validation practices
 
----------------------------------------------------------------------------------------------
-
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 
 📧 Email: yamanirochana24@gmail.com<br>
 📱 WhatsApp / Phone: +94 76 742 0260<br>
